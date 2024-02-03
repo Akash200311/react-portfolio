@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.bb3440a5.css",
-    "main.js": "/react-portfolio/static/js/main.9423b06d.js",
-    "static/media/Profile.jpg": "/react-portfolio/static/media/Profile.e1a9a0431fcf7a93b6c4.jpg",
-    "static/media/Header-Background.png": "/react-portfolio/static/media/Header-Background.2622d5d1af52d23554a1.png",
-    "static/media/2.png": "/react-portfolio/static/media/2.b48ee2dd771b1f1c70bd.png",
-    "static/media/1.png": "/react-portfolio/static/media/1.000420ac2dbb95bcc5eb.png",
-    "static/media/cv.pdf": "/react-portfolio/static/media/cv.51950acade7a4f963c25.pdf",
-    "static/media/Cv.png": "/react-portfolio/static/media/Cv.278962906a27fec4b54e.png",
-    "static/media/axios.cjs": "/react-portfolio/static/media/axios.fd4c4f566977eb864801.cjs",
-    "static/media/export-data.txt": "/react-portfolio/static/media/export-data.4a93d4b00c8944190a32.txt",
-    "static/media/projects.txt": "/react-portfolio/static/media/projects.9635d370e21ce1f215db.txt",
-    "static/media/Education_Experience.txt": "/react-portfolio/static/media/Education_Experience.9c85e729202048bf32ee.txt",
-    "index.html": "/react-portfolio/index.html",
-    "static/media/Awards.txt": "/react-portfolio/static/media/Awards.8ae60f8ccd17881c9187.txt",
-    "main.bb3440a5.css.map": "/react-portfolio/static/css/main.bb3440a5.css.map",
-    "main.9423b06d.js.map": "/react-portfolio/static/js/main.9423b06d.js.map"
+    "main.css": "/static/css/main.2737c093.css",
+    "main.js": "/static/js/main.76282b25.js",
+    "static/media/Profile.jpg": "/static/media/Profile.e1a9a0431fcf7a93b6c4.jpg",
+    "static/media/Header-Background.png": "/static/media/Header-Background.2622d5d1af52d23554a1.png",
+    "static/media/2.png": "/static/media/2.b48ee2dd771b1f1c70bd.png",
+    "static/media/1.png": "/static/media/1.000420ac2dbb95bcc5eb.png",
+    "static/media/cv.pdf": "/static/media/cv.51950acade7a4f963c25.pdf",
+    "static/media/Cv.png": "/static/media/Cv.278962906a27fec4b54e.png",
+    "static/media/axios.cjs": "/static/media/axios.fd4c4f566977eb864801.cjs",
+    "static/media/export-data.txt": "/static/media/export-data.4a93d4b00c8944190a32.txt",
+    "static/media/projects.txt": "/static/media/projects.9635d370e21ce1f215db.txt",
+    "static/media/Education_Experience.txt": "/static/media/Education_Experience.9c85e729202048bf32ee.txt",
+    "index.html": "/index.html",
+    "static/media/Awards.txt": "/static/media/Awards.8ae60f8ccd17881c9187.txt",
+    "main.2737c093.css.map": "/static/css/main.2737c093.css.map",
+    "main.76282b25.js.map": "/static/js/main.76282b25.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb3440a5.css",
-    "static/js/main.9423b06d.js"
+    "static/css/main.2737c093.css",
+    "static/js/main.76282b25.js"
   ]
 }
