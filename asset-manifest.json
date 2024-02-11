@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.321c92d7.css",
-    "main.js": "/react-portfolio/static/js/main.4602a5f6.js",
+    "main.js": "/react-portfolio/static/js/main.f7e55892.js",
     "static/media/Header-Background.png": "/react-portfolio/static/media/Header-Background.2622d5d1af52d23554a1.png",
     "static/media/project-1.png": "/react-portfolio/static/media/project-1.5131d8a59d19aa3d4ba3.png",
     "static/media/2.png": "/react-portfolio/static/media/2.b48ee2dd771b1f1c70bd.png",
@@ -11,16 +11,16 @@
     "static/media/axios.cjs": "/react-portfolio/static/media/axios.fd4c4f566977eb864801.cjs",
     "static/media/Profile.jpg": "/react-portfolio/static/media/Profile.9a865bc780d39ee7f6be.jpg",
     "static/media/export-data.txt": "/react-portfolio/static/media/export-data.4a93d4b00c8944190a32.txt",
-    "static/media/projects.txt": "/react-portfolio/static/media/projects.ad679f76d017cf8ec6ce.txt",
+    "static/media/projects.txt": "/react-portfolio/static/media/projects.01b257f0d334333f24c3.txt",
     "static/media/Experience.txt": "/react-portfolio/static/media/Experience.a1b179b8114087e8d088.txt",
     "index.html": "/react-portfolio/index.html",
     "static/media/Awards.txt": "/react-portfolio/static/media/Awards.8ae60f8ccd17881c9187.txt",
     "static/media/Academics.txt": "/react-portfolio/static/media/Academics.2ac8f357cef318790546.txt",
     "main.321c92d7.css.map": "/react-portfolio/static/css/main.321c92d7.css.map",
-    "main.4602a5f6.js.map": "/react-portfolio/static/js/main.4602a5f6.js.map"
+    "main.f7e55892.js.map": "/react-portfolio/static/js/main.f7e55892.js.map"
   },
   "entrypoints": [
     "static/css/main.321c92d7.css",
-    "static/js/main.4602a5f6.js"
+    "static/js/main.f7e55892.js"
   ]
 }
